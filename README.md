@@ -157,7 +157,7 @@ streamlit run main.py
 
 ## 👤 Auteur
 
-Projet réalisé par **Les Optimisite**
+Projet réalisé par **Les Optimisites - Nada EL kamel/Mouna Tounakti/ Fatma Hattab**
 
 ---
 
