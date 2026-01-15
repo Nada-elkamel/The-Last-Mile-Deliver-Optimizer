@@ -104,10 +104,6 @@ cd livreurpro-optimizer
 
 ### 2. Installer les dépendances
 
-```bash
-pip install -r requirements.txt
-```
-
 *(Exemple de dépendances)*
 
 ```txt
